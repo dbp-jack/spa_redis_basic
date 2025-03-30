@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DatabaseToolDbSqlDialect">
+    <option name="dialects">
+      <map>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/database-tool/921360ec-a026-4db9-9279-12c7cc3ce0ed/console.sql" value="Redis" />
+      </map>
+    </option>
+  </component>
+</project>
